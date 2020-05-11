@@ -21,5 +21,16 @@ html {
 }
 
 .Cart h2 {
-  align-self: center;
+  padding-right: 10%;
+  text-align: right;
+}
+
+.Cart .headers {
+  margin: 5%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Cart .headers div {
+  width: 25%;
 }

@@ -32,6 +32,9 @@ function Cart({ initialItems }) {
         <h1>Shopping Cart</h1>
       </div>
       <div>
+        <div className="headers">
+          <div>Name</div> <div>Price</div> <div>Quantity</div> <div>Total</div>
+        </div>
         {items.map((item) => (
           <CartItem key={item.id} updateQty={updateQty} {...item} />
         ))}

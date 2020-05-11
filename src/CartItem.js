@@ -6,13 +6,13 @@ function CartItem({ id, name, price, qty, updateQty }) {
   const subtractOne = () => updateQty(id, qty - 1);
   return (
     <div className="Cart-item">
-      <div>Name: {name}</div>
-      <div>Price: ${price}</div>
+      <div>{name}</div>
+      <div>${price}</div>
       <div>
         <button onClick={subtractOne} disabled={qty === 1}>
           -
-        </button>{" "}
-        Qty: {qty}
+        </button>
+        {qty}
         <button onClick={addOne}>+</button>
       </div>
       <div>Sub-Total: ${qty * price} </div>
