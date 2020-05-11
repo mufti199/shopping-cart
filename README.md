@@ -6,7 +6,7 @@ This is a simple app that emulates the behavior of an online shopping cart. It s
 <img src="image.PNG" width=70%>
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you'd like a tutorial on how to make a similar app then follow DevEd's [video](https://www.youtube.com/watch?v=U9T6YkEDkMo). 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you'd like a tutorial on how to make a similar app and also learn about React (with Hooks) then follow Colt Steele's [video](https://www.youtube.com/watch?v=9U3IhLAnSxM). 
 
 ### `npm start`
 
