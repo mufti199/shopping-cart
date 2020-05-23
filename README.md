@@ -2,9 +2,11 @@
 
 This is a simple app that emulates the behavior of an online shopping cart. It stores data into the local storage of the user in order to retain data after refreshing. The app has been created in a way that makes it easy to add an API and use in other web applications. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you'd like a tutorial on how to make a similar app then follow DevEd's [video](https://www.youtube.com/watch?v=U9T6YkEDkMo). 
+
+<img src="image.PNG" width=70%>
 
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you'd like a tutorial on how to make a similar app and also learn about React (with Hooks) then follow Colt Steele's [video](https://www.youtube.com/watch?v=9U3IhLAnSxM). 
 
 ### `npm start`
 
