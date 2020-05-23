@@ -1,7 +1,7 @@
 ## Shopping-Cart-App
 
-This is a simple app that emulates the behavior of an online shopping cart. It stores data into the local storage of the user in order to retain data after refreshing. The app has been created in a way that makes it easy to add an API and use in other web applications.
-It is also hosted through Firebase at https://shopping-cart-9e719.web.app/.
+This is a simple app that emulates the behavior of an online shopping cart. It stores data into the local storage of the user in order to retain data after refreshing. The app has been created in a way that makes it easy to add an API and use in other web applications.\
+The app is hosted using Firebase, at https://shopping-cart-9e719.web.app/.
 
 
 <img src="image.PNG" width=70%>
