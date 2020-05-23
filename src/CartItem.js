@@ -9,7 +9,7 @@ function CartItem({ id, name, price, qty, updateQty }) {
       <div>{name}</div>
       <div>${price}</div>
       <div>
-        <button onClick={subtractOne} disabled={qty === 1}>
+        <button onClick={subtractOne} disabled={qty === 0}>
           -
         </button>
         {qty}
